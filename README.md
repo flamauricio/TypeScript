@@ -1,7 +1,7 @@
 # TypeScript
 Metodo de pratica e estudo referente a linguagen Type Script 
 
-## Instalar Dependencia
+## Instalar Dependencia 🔥
 ```bash
 yarn init -y
 ```
