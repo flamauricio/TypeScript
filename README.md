@@ -1,5 +1,5 @@
 # TypeScript
-Metodo de pratica e estudo refenrete a linguagen Type Script 
+Metodo de pratica e estudo referente a linguagen Type Script 
 
 ## Instalar Dependencia
 ```bash
