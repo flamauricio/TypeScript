@@ -11,3 +11,6 @@ yarn init -y
 
 ## Developer 💻
 - <a href="https://github.com/flamauricio"> @flamauricio <a/>
+  
+## License
+  - <a href="https://github.com/flamauricio/TypeScript/blob/main/LICENSE"> MIT LICENSE <a/>
